@@ -8,12 +8,12 @@ learnLanguage(programmingLanguage);
 
 
 const images = [
-  (src = "/assets/images/cat1.avif"),
-  (src = "/assets/images/cat2.avif"),
-  (src = "/assets/images/cat3.avif"),
-  (src = "/assets/images/cat4.avif"),
-  (src = "/assets/images/cat5.avif"),
-  (src = "/assets/images/cat6.avif"),
+  (src = "assets/images/cat1.avif"),
+  (src = "assets/images/cat2.avif"),
+  (src = "assets/images/cat3.avif"),
+  (src = "assets/images/cat4.avif"),
+  (src = "assets/images/cat5.avif"),
+  (src = "assets/images/cat6.avif"),
 ];
 
 let currentIndex = 0;
