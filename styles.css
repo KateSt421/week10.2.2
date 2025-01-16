@@ -8,7 +8,7 @@ body {
       rgb(202 195 195 / 90%),
       rgb(220 219 219 / 90%)
     ),
-    url(/assets/images/paws.jpg);
+    url(assets/images/paws.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
